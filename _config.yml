@@ -67,7 +67,7 @@ social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : "Gregory Mikniche" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://facebook.com/mikniche"
+    - "https://facebook.com/mikn  iche"
     - "https://instagram.com/gm1k"
     - "https://www.linkedin.com/in/mikniche"
 
@@ -80,24 +80,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Gregory Mikniche"
+  avatar           : "/assets/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Special ordinary."
+  location         : "London, UK"
+  email            : "gregory@mikniche.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "mikniche"
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "mikniche"
+  google_plus      : 
   keybase          :
-  instagram        :
+  instagram        : "gm1k"
   lastfm           :
-  linkedin         :
+  linkedin         : "mikniche"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
