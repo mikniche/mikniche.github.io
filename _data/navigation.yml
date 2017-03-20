@@ -2,8 +2,8 @@
 main:
   - title: "CV"
     url: "http://mikniche.com/assets/GregoryMiknicheCV.pdf"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: http://mikniche.com/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
