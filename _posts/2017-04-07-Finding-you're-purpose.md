@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 ---
 ## Finding you're purpose
 
